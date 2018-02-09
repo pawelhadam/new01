@@ -1,0 +1,45 @@
+22 sty 2016 19:00:19
+22 sty 2016 19:00:19
+22 sty 2016 19:00:27
+22 sty 2016 19:00:27
+22 sty 2016 19:00:27
+Archive:  omegacgl_20160122.zip
+22 sty 2016 19:00:27
+22 sty 2016 19:00:27
+22 sty 2016 19:00:27
+22 sty 2016 19:00:27
+
+SQL*Loader: Release 12.1.0.2.0 - Production on Fri Jan 22 19:00:27 2016
+
+Copyright (c) 1982, 2015, Oracle and/or its affiliates.  All rights reserved.
+
+Path used:      Conventional
+
+Table HADZIO.OMEGA_LOADED:
+  0 Rows successfully loaded.
+
+Check the log file:
+  ../logs/all_20160122.log
+for more information about the load.
+22 sty 2016 19:00:28
+
+SQL*Plus: Release 12.1.0.2.0 Production on Fri Jan 22 19:00:28 2016
+
+Copyright (c) 1982, 2014, Oracle.  All rights reserved.
+
+Last Successful login time: Fri Jan 22 2016 19:00:27 +00:00
+
+Connected to:
+Oracle Database 12c Standard Edition Release 12.1.0.2.0 - 64bit Production
+
+SQL> 
+Session altered.
+
+SQL>   2    3    4    5    6    7    8    9   10   11   12   13   14   15   16   17   18   19   20   21   22   23  
+0 rows created.
+
+SQL> 
+Commit complete.
+
+SQL> Disconnected from Oracle Database 12c Standard Edition Release 12.1.0.2.0 - 64bit Production
+22 sty 2016 19:00:28
